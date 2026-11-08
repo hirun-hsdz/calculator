@@ -62,3 +62,7 @@ button:hover{
     background-color: #475569;
     transform: scale(1.05);
 }
+
+.operator{
+    background-color: #2563eb;
+}
