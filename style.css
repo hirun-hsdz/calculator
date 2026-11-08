@@ -75,3 +75,10 @@ button:hover{
     background-color: #dc2626;
 }
 
+.clear:hover{
+    background-color: #b91c1c;
+}
+
+.delete{
+    background-color: #ea580c;
+}
